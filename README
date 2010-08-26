@@ -5,3 +5,5 @@ GROUP_ID => com.yourdomain
 ARTIFACT_ID => project-name
 PROJECT_NAME => project-name
 PROJECT_URL => yourdomain.com/project-name
+
+Then delete the .git folder and run git init to start your new project.
