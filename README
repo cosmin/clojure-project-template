@@ -1,0 +1,7 @@
+After cloning this project open pom.xml and replace the following with the
+appropriate values for your project
+
+GROUP_ID => com.yourdomain
+ARTIFACT_ID => project-name
+PROJECT_NAME => project-name
+PROJECT_URL => yourdomain.com/project-name
